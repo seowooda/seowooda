@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=abe67a&text=Seowoo's%20Github&section=header&reversal=false&fontAlign=57&textBg=false&fontSize=50&fontColor=676e5e&fontAlignY=52"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=abe67a&text=Seowoo's%20Github&section=header&reversal=false&fontAlign=50&textBg=false&fontSize=50&fontColor=676e5e&fontAlignY=52"/>
 
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍💻 소개 </h2>  
